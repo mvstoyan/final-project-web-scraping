@@ -37,7 +37,8 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-![dashboard](dashboard.jpg)
+
+![photo_2025-06-17_08-46-36](https://github.com/user-attachments/assets/48996a91-6989-4691-a58d-9a033e2ef5d6)
 
 
 ### Summary:
