@@ -1,0 +1,2 @@
+2025-06-10 08:44:24,371 - INFO - Driver closed.
+2025-06-10 08:45:11,524 - INFO - Driver closed.
