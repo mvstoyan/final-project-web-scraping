@@ -36,9 +36,3 @@ mlb_almanac.db – SQLite database (auto-generated).
 pip install -r requirements.txt
 streamlit run dashboard.py
 ```
-
-![dashboard](dashboard.jpg)
-
-
-### Summary:
-This project stores MLB stats in a database and shows interactive charts to explore the data by year and statistic.
